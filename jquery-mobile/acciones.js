@@ -12,5 +12,5 @@ $(document).ready(function(e){
 		});//tap vibrar
 		
 		
-	},flase);//deviceready
+	},false);//deviceready
 });//ready
